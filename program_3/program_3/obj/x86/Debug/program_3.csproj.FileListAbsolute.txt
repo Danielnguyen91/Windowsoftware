@@ -1,0 +1,12 @@
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\MainWindow.baml
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\MainWindow.g.cs
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\App.g.cs
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\program_3_MarkupCompile.cache
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\program_3.g.resources
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\program_3.Properties.Resources.resources
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\program_3.csproj.GenerateResource.Cache
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\bin\Debug\program_3.exe
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\bin\Debug\program_3.pdb
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\bin\Debug\WPF.MDI.dll
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\program_3.exe
+\\stuhome\home\voldd\documents\visual studio 2010\Projects\program_3\program_3\obj\x86\Debug\program_3.pdb
