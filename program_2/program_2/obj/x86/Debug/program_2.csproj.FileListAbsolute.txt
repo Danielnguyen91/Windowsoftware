@@ -1,0 +1,7 @@
+C:\Users\Toan Nguyen\Desktop\program_2\program_2\bin\Debug\program_2.exe
+C:\Users\Toan Nguyen\Desktop\program_2\program_2\bin\Debug\program_2.pdb
+C:\Users\Toan Nguyen\Desktop\program_2\program_2\obj\x86\Debug\program_2.Form1.resources
+C:\Users\Toan Nguyen\Desktop\program_2\program_2\obj\x86\Debug\program_2.Properties.Resources.resources
+C:\Users\Toan Nguyen\Desktop\program_2\program_2\obj\x86\Debug\program_2.csproj.GenerateResource.Cache
+C:\Users\Toan Nguyen\Desktop\program_2\program_2\obj\x86\Debug\program_2.exe
+C:\Users\Toan Nguyen\Desktop\program_2\program_2\obj\x86\Debug\program_2.pdb
